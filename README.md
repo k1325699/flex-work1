@@ -1,1 +1,10 @@
-"# flex-work1" 
+https://k1325699.github.io/flex-work1/1.%E4%B8%A6%E6%8E%92%E5%8D%A1%E7%89%87/
+https://k1325699.github.io/flex-work1/2.雙欄排版/
+https://k1325699.github.io/flex-work1/3.雙欄選單設計/
+https://k1325699.github.io/flex-work1/4.表頭表尾設計/
+https://k1325699.github.io/flex-work1/5.常見三種排版/
+https://k1325699.github.io/flex-work1/6.圖文並排/
+https://k1325699.github.io/flex-work1/7.首頁橫幅排版/
+https://k1325699.github.io/flex-work1/8.圖文並排設計/
+https://k1325699.github.io/flex-work1/9.訂單明細/
+https://k1325699.github.io/flex-work1/10.產品列表/
