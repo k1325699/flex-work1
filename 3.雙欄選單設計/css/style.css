@@ -57,9 +57,7 @@ table {
 .list{
   width: 327px;
   background: #e7eeea;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  text-align: center;
 }
 .list img{
   padding-top:73px;
@@ -91,12 +89,12 @@ p{
   padding-right:85px;
   padding-bottom: 30px;
 }
-.img{
+.content-img{
   display:flex;
   flex-wrap:wrap;
   justify-content:center;
 }
-.img img{
+.content-img img{
   padding-bottom: 7px;
   padding-right: 7px;
 }

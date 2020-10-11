@@ -98,17 +98,13 @@ p{
 	padding-bottom:24px;
 }
 .footer{
-	display:flex;
 	height: 57px;
 	background: #37523d;
-	justify-content: center;
-	align-items: center;
 }
 .footer ul{
 	display:flex;
 	justify-content: center;
-	align-items: center;
-}
+	align-items: center;}
 .footer a{
 	color:#fff;
 	padding-left:7px;

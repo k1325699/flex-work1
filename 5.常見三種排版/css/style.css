@@ -128,7 +128,7 @@ padding-top:14px;padding-left: 27px;
   padding-right: 5px;
 }
 .item4{
-  justify-content: flex-end;
+  flex-direction: row-reverse;
   padding-right: 27px;
 }
 .item4 img{

@@ -65,7 +65,7 @@ table {
   box-sizing: border-box;
 }
 
-.item h1{
+.item h2{
   font-size:86px;
   padding-top:90px;
   padding-bottom:90px;
@@ -73,11 +73,11 @@ table {
   background:#e7eeea;
   text-align:center;
 }
-.item h2,p{
+.item h3,p{
   padding-left:30px;
   padding-right:30px;
 }
-.item h2{
+.item h3{
   font-size:27px;
   color:#37523d;
   font-weight:bold;
